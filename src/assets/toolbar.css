@@ -1,0 +1,18 @@
+.toolbar {
+  width: 1000px;
+  border: 1px solid gray;
+  margin-top: 100px;
+  padding: 20px;
+}
+.toolbar > button {
+  margin-right: 5px;
+}
+
+.btn {
+  height: 30px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: gray;
+}

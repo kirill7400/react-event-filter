@@ -1,0 +1,12 @@
+.projectList {
+  width: 1000px;
+  border: 1px solid gray;
+  margin-top: 50px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.img {
+  padding: 5px;
+}
